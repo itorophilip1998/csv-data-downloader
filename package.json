@@ -1,0 +1,27 @@
+{
+  "name": "csv-data-downloader",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "A simple CSV downloader for dynamic data structures", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "csv",
+    "download",
+    "typescript",
+    "react"
+  ],
+  "author": "Itoro Philip",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itorophilip1998/csv-data-downloader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itorophilip1998/csv-data-downloader/issues"
+  },
+  "homepage": "https://github.com/itorophilip1998/csv-data-downloader#readme"
+}
